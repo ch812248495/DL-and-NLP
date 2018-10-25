@@ -5,7 +5,7 @@ A comparision of word embeddings
 - objects: pretrained word2vec and self-trained starspace
 - task: given 1 problem in stackoverflow, sort the candidate problems by their similarities
 - metric: Hit@k
-- conclusion: supervised learning is much better than unsupervised learning under one specific scenario
+- conclusion: supervised learning is much better than unsupervised learning under one specific scenario
 
 ## KerasNotes
 Some practices using keras
